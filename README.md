@@ -1,6 +1,6 @@
 # keyword-network-analysis-and-word-frequency-analysis
 Task 1
-1. Download the dataset
+1. Download the Dataset
 (https://docs.google.com/spreadsheets/d/1GTwv07i98vL7S-J9eeP8NV1fJVnym
 m1eJ31RDyt4Mxw/edit?usp=sharing)
 2.Write a Python code to extract keyword data from the above file and convert it to
